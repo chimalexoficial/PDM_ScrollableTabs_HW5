@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Iteso Store</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_pp">Privacy Policy</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="section1">Technology</string>
+    <string name="section2">Home</string>
+    <string name="section3">Electronics</string>
+    <string name="splash_title">WELCOME TO ITESO PRODUCTS</string>
+</resources>
